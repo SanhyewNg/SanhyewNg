@@ -1,4 +1,4 @@
-# Sanhyew Ng
+# 👋 Sanhyew Ng 
 
 **Full-stack AI Engineer**
 
@@ -9,7 +9,7 @@
 ## Professional Skills
 
 - **Artificial Intelligence**:  
-  * Machine Learning (ML) 
+  * Machine Learning (ML)
   * Deep Learning (DL)
   * Computer Vision (CV)
   * Speech Processing (STT & TTS)
@@ -18,12 +18,25 @@
 - **AI Development**: PyTorch, TensorFlow
 - **Cloud Engineering**: AWS, GCP, Azure
 - **Big Data Technologies**: Spark, Kafka
-- **Backend Development**: FastAPI, Flask
-- **Database Management**: MongoDB, MySQL
-- **Frontend Development**: React, TailwindCSS
+- **Backend Development**: FastAPI, Flask, Node
+- **Database Management**: MongoDB, MySQL, PostgreSQL
+- **Frontend Development**: React, TailwindCSS, HeadlessUI
 - **Programming Languages**: Python, SQL, Typescript
 
-## Works (Project Experience) and Roles
+![AI Skills](https://skillicons.dev/icons?i=ai,aiscript,pytorch)
+
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)
+
+![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs)
+
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+
+![My Skills](https://skillicons.dev/icons?i=react,tailwind)
+
+![My Skills](https://skillicons.dev/icons?i=py,ts)
+
+
+## Works / Roles Experience
 
 ### **Digital Image Enhancement** / Core Developer
 **May 2014 - March 2017**
