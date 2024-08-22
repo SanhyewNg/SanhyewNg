@@ -3,13 +3,16 @@
 
 ## Professional Skills
 
-- **Artificial Intelligence**:  
+- **AI Technologies**:  
   * Machine Learning (ML)
   * Deep Learning (DL)
-  * Computer Vision (CV)
-  * Speech Processing (STT & TTS)
   * Large Language Model (LLM)
   * Generative AI (GenAI)
+- **AI Applications**:
+  * Computer Vision (CV)
+  * Business Intelligence (BI)
+  * Speech Processing (SR, STT, TTS)
+  * Natural Language Processing (NLP)
 - **AI Development**: PyTorch, TensorFlow
 - **Cloud Engineering**: AWS, GCP, Azure
 - **Big Data Technologies**: Spark, Kafka
@@ -30,28 +33,10 @@
 
 
 #### A.1. **Digital Image Detail Enhancement** / Core Developer (May 2014 - March 2017) [GitHub](https://github.com/SanhyewNg/Digital-Image-Detail-Enhancement)
-- Developed real-time digital image detail enhancement algorithms for digital cameras, improving image clarity and sharpness.
-- Simulated algorithms in MATLAB and implemented them in FPGA using Verilog HDL and schematic design, ensuring real-time processing capabilities.
-
-<img src = "assets\DDE_1.jpg" style="width:600px;">
-<!-- <img src = "assets\DDE_2.png"> -->
-
 
 #### A.2. **Ocular Image Segmentation** / Computer Vision Developer (September 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Ocular-Image-Segmentation)
-- Developed and tested deep learning models for ocular image segmentation using TensorFlow and PyTorch, enhancing segmentation accuracy and speed.
-- Developed desktop applications to facilitate the deployment and execution of these models, improving usability for medical professionals.
-
-<img src = "assets\7673RE_LG_LM_512.png" style="width:300px;">
-<img src = "assets\7673RE_LG_LM_512_analysed.png" style="width:300px;">
-
 
 #### A.3. **Microscopy Image Cell Instance Segmentation** / Machine Learning Engineer (October 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Microscopy-Image-Cell-Instance-Segmentation)
-- Developed, tested, and integrated machine learning models for cell instance segmentation using TensorFlow and PyTorch, achieving high segmentation accuracy
-- Designed and implemented data preprocessing pipelines, significantly reducing processing time.
-- Built scalable backend services using Flask, Docker, and microservice architecture, streamlining the deployment of AI solutions.
-
-<img src = "assets\CLB_AI_1.png" style="width:300px;">
-
 
 #### A.4. **Virtual Try-On** / Deep Learning Engineer (November 2021 - December 2021) [GitHub](https://github.com/SanhyewNg/Virtual-Try-On)
 - Developed, tested, and integrated machine learning models for virtual try-on using TensorFlow and PyTorch, providing a seamless user experience for online shoppers.
