@@ -20,7 +20,7 @@
 - **Big Data Technologies**: Spark, Kafka
 - **Backend Development**: FastAPI, Flask, Node
 - **Database Management**: MongoDB, MySQL, PostgreSQL
-- **Frontend Development**: React, TailwindCSS, HeadlessUI
+- **Frontend Development**: React, Next, TailwindCSS, HeadlessUI
 - **Programming Languages**: Python, SQL, C++, Typescript
 
 ![AI Skills](https://skillicons.dev/icons?i=ai,aiscript,pytorch)
@@ -65,7 +65,7 @@
 
 #### **Soccer Juggling Counter** / Computer Vision Engineer (January 2022- March 2022)
 - Developed and integrated deep learning models for the detection and tracking of soccer players and balls, increasing the accuracy of real-time sports analytics.
-Created scalable backend services with FastAPI, Docker, and microservice architecture, ensuring robust and efficient deployment.
+- Created scalable backend services with FastAPI, Docker, and microservice architecture, ensuring robust and efficient deployment.
 <img src = "assets\Soccer_Player&Ball.png" style="width:300px;">
 
 #### **Crack Detection** / Computer Vision Engineer (May 2024 - July 2024)
