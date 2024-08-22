@@ -1,10 +1,5 @@
-# 👋 Sanhyew Ng 
+# **Full-stack AI Engineer**
 
-**Full-stack AI Engineer**
-
-- Phone: +1 352 448 6943
-- E-mail: sanhyew.ng@gmail.com
-- Skype: Sanhyew Ng
 
 ## Professional Skills
 
@@ -23,18 +18,9 @@
 - **Frontend Development**: React, Next, TailwindCSS, HeadlessUI
 - **Programming Languages**: Python, SQL, C++, Typescript
 
-![AI Skills](https://skillicons.dev/icons?i=ai,aiscript,pytorch)
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure) | ![AI Skills](https://skillicons.dev/icons?i=ai,aiscript,pytorch) | ![My Skills](https://skillicons.dev/icons?i=py,ts)
 
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)
-
-![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs)
-
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
-
-![My Skills](https://skillicons.dev/icons?i=react,tailwind)
-
-![My Skills](https://skillicons.dev/icons?i=py,ts)
-
+![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs) | ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres) | ![My Skills](https://skillicons.dev/icons?i=react,tailwind)
 
 
 ## Projects / Roles Experience
