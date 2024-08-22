@@ -19,7 +19,7 @@
 - **Backend Development**: FastAPI, Flask, Node
 - **Database Management**: MongoDB, MySQL, PostgreSQL
 - **Frontend Development**: React, Next, TailwindCSS, HeadlessUI
-- **Programming Languages**: Python, SQL, C++, Typescript
+- **Programming Languages**: Python, SQL, C++, Typescript, Javascript
 
 ![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure) | ![AI Skills](https://skillicons.dev/icons?i=ai,aiscript,pytorch) | ![My Skills](https://skillicons.dev/icons?i=py,ts)
 
@@ -28,35 +28,23 @@
 
 ## Projects / Roles Experience
 
-
 ### A. *Computer Vision Projects*
 
-#### A.1. **Digital Image Detail Enhancement** / Core Developer (May 2014 - March 2017) [GitHub](https://github.com/SanhyewNg/Digital-Image-Detail-Enhancement)
-
-#### A.2. **Ocular Image Segmentation** / Computer Vision Developer (September 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Ocular-Image-Segmentation)
-
-#### A.3. **Microscopy Image Cell Instance Segmentation** / Machine Learning Engineer (October 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Microscopy-Image-Cell-Instance-Segmentation)
-
-#### A.4. **Virtual Try-On** / Deep Learning Engineer (November 2021 - December 2021) [GitHub](https://github.com/SanhyewNg/Virtual-Try-On)
-
-#### A.5. **Soccer Juggling Counter** / Computer Vision Engineer (January 2022- March 2022) [GitHub](https://github.com/SanhyewNg/Soccer-Juggling-Counter)
-
-#### A.6. **Crack Detection** / Computer Vision Engineer (May 2024 - July 2024) [GitHub](https://github.com/SanhyewNg/Crack-Detection)
-
+- **Digital Image Detail Enhancement** / Core Developer (May 2014 - March 2017) [GitHub](https://github.com/SanhyewNg/Digital-Image-Detail-Enhancement)
+- **Ocular Image Segmentation** / Computer Vision Developer (September 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Ocular-Image-Segmentation)
+- **Microscopy Image Cell Instance Segmentation** / Machine Learning Engineer (October 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Microscopy-Image-Cell-Instance-Segmentation)
+- **Virtual Try-On** / Deep Learning Engineer (November 2021 - December 2021) [GitHub](https://github.com/SanhyewNg/Virtual-Try-On)
+- **Soccer Juggling Counter** / Computer Vision Engineer (January 2022- March 2022) [GitHub](https://github.com/SanhyewNg/Soccer-Juggling-Counter)
+- **Crack Detection** / Computer Vision Engineer (May 2024 - July 2024) [GitHub](https://github.com/SanhyewNg/Crack-Detection)
 
 ### B. *Business Intelligence Projects*
 
-#### B.1. **Customer Churn Prediction** / Machine Learning Engineer (February 2023 - March 2023) [GitHub](https://github.com/SanhyewNg/Customer-Churn-Prediction)
-
-#### B.2. **Loan Eligibility Prediction** / Data Scientist (March 2023 - April 2023) [GitHub](https://github.com/SanhyewNg/Loan-Eligibility-Prediction)
-
-#### B.3. **Patient Length-of-Stay Prediction** / Data Scientist (April 2023 - June 2023) [GitHub](https://github.com/SanhyewNg/Patient-Length-of-Stay-Prediction)
-
-#### B.4. **Truck Delay Prediction** / Machine Learning Engineer (April 2023 - June 2023) [GitHub](https://github.com/SanhyewNg/Truck-Delay-Prediction)
-
+- **Customer Churn Prediction** / Machine Learning Engineer (February 2023 - March 2023) [GitHub](https://github.com/SanhyewNg/Customer-Churn-Prediction)
+- **Loan Eligibility Prediction** / Data Scientist (March 2023 - April 2023) [GitHub](https://github.com/SanhyewNg/Loan-Eligibility-Prediction)
+- **Patient Length-of-Stay Prediction** / Data Scientist (April 2023 - June 2023) [GitHub](https://github.com/SanhyewNg/Patient-Length-of-Stay-Prediction)
+- **Truck Delay Prediction** / Machine Learning Engineer (April 2023 - June 2023) [GitHub](https://github.com/SanhyewNg/Truck-Delay-Prediction)
 
 ### C. *LLM-Based AI Projects*
-
 
 #### C.1. **Professional Assistants Chatting** / Full-stack Developer (June 2023 - October 2023) [GitHub](https://web-sanai.onrender.com/#/assistants)
 - Developed a highly interactive AI-powered professional assistants chatting app integrating speech-to-text (STT) with OpenAI Whisper, language understanding and processing via ChatCompletion (LLM) APIs, and text-to-speech (TTS) using ElevenLabs.
