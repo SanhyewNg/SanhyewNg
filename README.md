@@ -31,7 +31,6 @@
 
 ### A. *Computer Vision Projects*
 
-
 #### A.1. **Digital Image Detail Enhancement** / Core Developer (May 2014 - March 2017) [GitHub](https://github.com/SanhyewNg/Digital-Image-Detail-Enhancement)
 
 #### A.2. **Ocular Image Segmentation** / Computer Vision Developer (September 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Ocular-Image-Segmentation)
@@ -39,51 +38,21 @@
 #### A.3. **Microscopy Image Cell Instance Segmentation** / Machine Learning Engineer (October 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Microscopy-Image-Cell-Instance-Segmentation)
 
 #### A.4. **Virtual Try-On** / Deep Learning Engineer (November 2021 - December 2021) [GitHub](https://github.com/SanhyewNg/Virtual-Try-On)
-- Developed, tested, and integrated machine learning models for virtual try-on using TensorFlow and PyTorch, providing a seamless user experience for online shoppers.
-- Implemented scalable backend services using Flask, Docker, and microservice architecture, ensuring high availability and performance.
-
-<img src = "assets\VTON_1.png" style="width:600px;">
-
 
 #### A.5. **Soccer Juggling Counter** / Computer Vision Engineer (January 2022- March 2022) [GitHub](https://github.com/SanhyewNg/Soccer-Juggling-Counter)
-- Developed and integrated deep learning models for the detection and tracking of soccer players and balls, increasing the accuracy of real-time sports analytics.
-- Created scalable backend services with FastAPI, Docker, and microservice architecture, ensuring robust and efficient deployment.
-
-<img src = "assets\Soccer_Player&Ball.png" style="width:300px;">
-
 
 #### A.6. **Crack Detection** / Computer Vision Engineer (May 2024 - July 2024) [GitHub](https://github.com/SanhyewNg/Crack-Detection)
-- Developed, tested, and integrated machine learning models for detecting cracks in WRB and Seam Taping using PyTorch, improving defect detection capabilities.
-- Designed and implemented data preprocessing pipelines, and created scalable backend services using FastAPI, Docker, and microservice architecture to support the automated detection system.
-
 
 
 ### B. *Business Intelligence Projects*
 
-
 #### B.1. **Customer Churn Prediction** / Machine Learning Engineer (February 2023 - March 2023) [GitHub](https://github.com/SanhyewNg/Customer-Churn-Prediction)
-- Developed and deployed a customer churn prediction model using ensemble techniques to forecast account - closures for a bank. 
-- Leveraged Python, Flask, and Docker for model creation and AWS for deployment, including services like AWS EC2, ECS, and Code Pipeline. 
-- The project involved end-to-end implementation from model training to deployment, with a focus on optimizing and scaling the solution in a cloud environment.
-
 
 #### B.2. **Loan Eligibility Prediction** / Data Scientist (March 2023 - April 2023) [GitHub](https://github.com/SanhyewNg/Loan-Eligibility-Prediction)
-- Developed a machine learning model to predict loan eligibility for SYL Bank using Python, SQL, and Google Cloud Platform (GCP).
-- Implemented data cleaning, exploratory analysis, and model training with XGBoost and various tree-based models, deployed via Flask and Docker. 
-- Optimized the end-to-end MLOps pipeline, including model deployment and continuous integration, ensuring efficient and automated loan processing.
-
 
 #### B.3. **Patient Length-of-Stay Prediction** / Data Scientist (April 2023 - June 2023) [GitHub](https://github.com/SanhyewNg/Patient-Length-of-Stay-Prediction)
-- Developed a machine learning model to predict patient length of stay (LOS) using Snowflake on AWS and Python. 
-- Implemented end-to-end analytics, including data preprocessing, feature engineering, and model training with XGBoost and other regression techniques. 
-- Built a retraining pipeline to monitor and address data and model drift, ensuring continuous improvement and accurate predictions for efficient hospital resource management.
-
 
 #### B.4. **Truck Delay Prediction** / Machine Learning Engineer (April 2023 - June 2023) [GitHub](https://github.com/SanhyewNg/Truck-Delay-Prediction)
-- Developed an end-to-end machine learning pipeline to predict truck delays, addressing critical logistics challenges. 
-- Utilized AWS services, including SageMaker and Hopsworks, for data storage, preprocessing, feature engineering, and model building with logistic regression, random forest, and XGBoost. 
-- Implemented model monitoring, CI/CD practices, and SageMaker Pipelines for scalable, reliable deployment and real-time model management.
-
 
 
 ### C. *LLM-Based AI Projects*
