@@ -46,11 +46,7 @@
 
 ### C. *LLM-Based AI Projects*
 
-#### C.1. **Professional Assistants Chatting** / Full-stack Developer (June 2023 - October 2023) [GitHub](https://web-sanai.onrender.com/#/assistants)
-- Developed a highly interactive AI-powered professional assistants chatting app integrating speech-to-text (STT) with OpenAI Whisper, language understanding and processing via ChatCompletion (LLM) APIs, and text-to-speech (TTS) using ElevenLabs.
-- Designed and implemented a robust backend using FastAPI and MongoDB to handle user data and request processing efficiently.
-- Built a responsive and dynamic frontend using React and TailwindCSS, delivering a seamless user experience across platforms.
-
+#### C.1. **Personal Assistance App** / Full-stack Developer (June 2023 - October 2023) [GitHub](https://github.com/SanhyewNg/Personal-Assistance-App) [Website](https://web-sanai.onrender.com) [API Doc](https://api-sanai.onrender.com/docs)
 
 #### C.2. **Knowledge-Grounded Chatbot** / LLM Developer (November 2023 - March 2024) [GitHub](https://github.com/SanhyewNg/Knowledge-Grounded-Chatbot)
 - Developed a knowledge-grounded chatbot utilizing large language models (LLMs) and fine-tuning techniques for an end-to-end application. 
