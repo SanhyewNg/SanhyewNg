@@ -99,7 +99,7 @@ Created scalable backend services with FastAPI, Docker, and microservice archite
 ### *LLM-Based AI Projects*
 
 #### **AI-powered Professional Assistants** / Full-stack Developer (June 2023 - October 2023)
-- Developed a highly interactive AI-powered voice assistant integrating speech-to-text (STT) with OpenAI Whisper, language understanding and processing via ChatCompletion (LLM) APIs, and text-to-speech (TTS) using ElevenLabs.
+- Developed a highly interactive AI-powered professional assistants chatting app integrating speech-to-text (STT) with OpenAI Whisper, language understanding and processing via ChatCompletion (LLM) APIs, and text-to-speech (TTS) using ElevenLabs.
 - Designed and implemented a robust backend using FastAPI and MongoDB to handle user data and request processing efficiently.
 - Built a responsive and dynamic frontend using React and TailwindCSS, delivering a seamless user experience across platforms.
 
