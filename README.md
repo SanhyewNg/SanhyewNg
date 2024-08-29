@@ -30,9 +30,9 @@
 ### A. *Computer Vision Projects*
 
 - **Digital Image Detail Enhancement** (May 2014 - March 2017) [GitHub](https://github.com/SanhyewNg/Digital-Image-Detail-Enhancement)
-- **Ocular Diagnosis Image Analysis** (September 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Ocular-Image-Segmentation)
-- **Microscopy 3D Image Analysis** (October 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Microscopy-Image-Cell-Instance-Segmentation)
-- **Virtual Try-On** (November 2021 - December 2021) [GitHub](https://github.com/SanhyewNg/Virtual-Try-On)
+- **Ocular Diagnosis Image Analysis** (September 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Ocular-Diagnosis-Image-Analysis)
+- **Microscopy 3D Image Analysis** (October 2021 - June 2022) [GitHub](https://github.com/SanhyewNg/Microscopy-3D-Image-Analysis)
+- **Virtual Try-On Engine** (November 2021 - December 2021) [GitHub](https://github.com/SanhyewNg/Virtual-Try-On-Engine)
 - **Soccer Juggling Counter** (January 2022- March 2022) [GitHub](https://github.com/SanhyewNg/Soccer-Juggling-Counter)
 - **Crack Detection** (May 2024 - July 2024) [GitHub](https://github.com/SanhyewNg/Crack-Detection)
 
