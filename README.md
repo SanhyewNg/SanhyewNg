@@ -3,14 +3,12 @@
 ## Skills
 
 - **AI Technologies**:  
-  * Machine Learning (ML)
   * Deep Learning (DL)
+  * Machine Learning (ML)
   * Large Language Model (LLM)
-  * Generative AI (GenAI)
 - **AI Applications**:
   * Computer Vision (CV)
   * Business Intelligence (BI)
-  * Speech Processing (SR, STT, TTS)
   * Natural Language Processing (NLP)
 - **AI Development**: PyTorch, TensorFlow
 - **Cloud Engineering**: AWS, GCP, Azure
