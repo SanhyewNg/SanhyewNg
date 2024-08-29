@@ -1,6 +1,6 @@
 # **Full-stack AI Engineer**
 
-## Professional Skills
+## Skills
 
 - **AI Technologies**:  
   * Machine Learning (ML)
