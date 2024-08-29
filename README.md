@@ -25,7 +25,7 @@
 ![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs) | ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres) | ![My Skills](https://skillicons.dev/icons?i=react,tailwind) -->
 
 
-## Projects / Roles Experience
+## Projects
 
 ### A. *Computer Vision Projects*
 
