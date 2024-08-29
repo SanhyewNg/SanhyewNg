@@ -20,9 +20,9 @@
 - **Frontend Development**: React, Next, TailwindCSS, HeadlessUI
 - **Programming Languages**: Python, SQL, C++, Typescript, Javascript
 
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure) | ![AI Skills](https://skillicons.dev/icons?i=ai,aiscript,pytorch) | ![My Skills](https://skillicons.dev/icons?i=py,ts)
+<!-- ![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure) | ![AI Skills](https://skillicons.dev/icons?i=ai,aiscript,pytorch) | ![My Skills](https://skillicons.dev/icons?i=py,ts)
 
-![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs) | ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres) | ![My Skills](https://skillicons.dev/icons?i=react,tailwind)
+![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs) | ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres) | ![My Skills](https://skillicons.dev/icons?i=react,tailwind) -->
 
 
 ## Projects / Roles Experience
