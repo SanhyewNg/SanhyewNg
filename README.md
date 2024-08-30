@@ -48,7 +48,7 @@
 - **Chatbot with SQL Data Analysis** (December 2023 - January 2024) [GitHub](https://github.com/SanhyewNg/Chatbot-with-SQL-Data-Analysis)
 - **Automated Metadata Generation** (January 2024 - February 2024) [GitHub](https://github.com/SanhyewNg/Automated-Metadata-Generation)
 - **Video Summarization and Quiz Generation** (February 2024 - March 2024) [GitHub](https://github.com/SanhyewNg/Video-Summarization-and-Quiz-Generation)
-- **Live Conversation Assistant** (March 2024 - April 2024) [GitHub](https://github.com/SanhyewNg/Live-Conversation-Assistant)
+- **Live Interview Assistant** (March 2024 - April 2024) [GitHub](https://github.com/SanhyewNg/Live-Interview-Assistant)
 - **Resume Analysis and Tailoring System**  (April 2024 - May 2024) [GitHub](https://github.com/SanhyewNg/ResumeAnaTailor) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resanatailor.streamlit.app)
 - **Resume Screening System** (April 2024 - May 2024)  [GitHub](https://github.com/SanhyewNg/Resume-Screening-System)
 - **Customer Support System** (May 2024 - June 2024)  [GitHub](https://github.com/SanhyewNg/Customer-Support-System)
