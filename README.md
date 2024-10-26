@@ -40,7 +40,7 @@
 - **Loan Eligibility Prediction** (March 2023 - April 2023) [GitHub](https://github.com/SanhyewNg/Loan-Eligibility-Prediction)
 - **Patient Length-of-Stay Prediction** (April 2023 - June 2023) [GitHub](https://github.com/SanhyewNg/Patient-Length-of-Stay-Prediction)
 - **Truck Delay Prediction** (April 2023 - June 2023) [GitHub](https://github.com/SanhyewNg/Truck-Delay-Prediction)
-- **Stellar Auto Trading**(August 2024 - September 2024) [Github](https://github.com/SanhyewNg/Stellar-Auto-Trading)
+- **Stellar Auto Trading**(August 2024 - September 2024) [Github](https://github.com/SanhyewNg/Stellar-Auto-Trader)
 
 ### C. *LLM-Based AI Projects*
 
