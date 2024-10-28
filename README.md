@@ -56,6 +56,14 @@
 - **Call Center Automation**  (June 2024 - July 2024)  [GitHub](https://github.com/SanhyewNg/Call-Center-Automation) 
 
 
+## Learning Notebooks
+
+- **Python Programming Notebook** [Github]()
+- **Data Science with Python Notebook** [Github]()
+- **Deep Learning with PyTorch Notebook** [Github]()
+- **Databricks Data Engineer Associate Prep** [Github]()
+- **ByteByteGo Newsletters Collection** [Github]()
+
 <!---
 SanhyewNg/SanhyewNg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
